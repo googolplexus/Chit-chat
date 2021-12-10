@@ -1,4 +1,4 @@
-#Chit-chat Application
+# Chit-chat Application
 
 This Java Application has been created by:
 Neel Karia, 17CS10029
