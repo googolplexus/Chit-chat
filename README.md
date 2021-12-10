@@ -1,3 +1,5 @@
+#Chit-chat Application
+
 This Java Application has been created by:
 Neel Karia, 17CS10029
 Ritikesh Gupta, 17CS30027
